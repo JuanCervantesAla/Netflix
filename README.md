@@ -1,3 +1,14 @@
+#Netflix Clone
+
+This repository is a legal clone just for educational content.
+it is not being used in any illegal actions.
+For the webcode class (Programación para internet) Cucei
+Made in react
+Juan Cervantes🦎
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
